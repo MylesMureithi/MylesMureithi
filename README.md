@@ -6,7 +6,7 @@ I'm a Computer Science student @ Ashesi University, passionate about software en
 
 ## About Me
 
-- 🧑‍🏫 Always working on new React projects!
+- 🧑‍🏫  Always working on new React projects!
 - 🌱 Currently learning more about Python and AI.
 - 🇯🇵 Studying Japanese (JLPT N5 → N4)
 
