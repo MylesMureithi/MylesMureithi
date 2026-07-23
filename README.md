@@ -89,11 +89,11 @@ A personal website showcasing my projects, skills, and journey as a developer.
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/myles-mureithi)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel)](https://mylesmureithi.github.io/my-portfolio/)
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mylesthestudent@gmail.com)
 
 ---
 
