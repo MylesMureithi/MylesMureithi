@@ -1,50 +1,104 @@
+<div align="center">
+
 # Hi, I'm Myles 👋
 
-### Computer Science Student @ Ashesi University 🇬🇭
+### Computer Science Student • Software Engineer • Builder
 
 Building software that solves real problems.
 
-Currently developing **Solex**, an adaptive scheduling platform designed to help students manage workload and prevent burnout.
+Currently developing **Solex**, an adaptive scheduling platform helping students study smarter and avoid burnout.
 
-## About Me
+</div>
 
-- 💻 Interested in Software Engineering and Full-Stack Development
-- ⚛️ Building web applications with React, Firebase, and Vite
-- 🇯🇵 Studying Japanese (JLPT N5, working toward N4)
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science student at **Ashesi University**
+- 💻 Interested in **Software Engineering** and **Full-Stack Development**
+- 🚀 Building products with **React**, **Firebase**, and **Vite**
 - 🌱 Currently learning backend development
-- 🎯 Looking for Winter 2026 Software Engineering internships
+- 🇯🇵 Studying Japanese (JLPT N5 → N4)
+- 🎯 Seeking Winter 2026 Software Engineering internships
 
-## Tech Stack
+---
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+## 🛠 Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Tools
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 🚀 Solex
+### 🌟 Solex
 
-Adaptive scheduling platform helping students stay productive without burning out.
+An adaptive scheduling platform designed to help students manage their workload and prevent burnout.
+
+**Built with**
+
+- React
+- Firebase
+- Vite
+
+---
 
 ### 🌐 Portfolio
 
-Personal website showcasing projects and experience.
+A personal website showcasing my projects, skills, and journey as a developer.
 
-### 📚 More projects coming soon...
+*(Coming soon.)*
 
-<!--
-**dampercat/dampercat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Backend Development
+- REST APIs
+- Database Design
+- System Design Fundamentals
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+<div align="center">
+
+> *"Build things that make people's lives a little easier."*
+
+</div>
