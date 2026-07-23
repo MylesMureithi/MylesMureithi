@@ -95,6 +95,7 @@ A personal website showcasing my projects, skills, and journey as a developer.
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mylesthestudent@gmail.com)
 
+---
 
 <div align="center">
 
