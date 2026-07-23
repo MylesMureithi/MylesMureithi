@@ -4,7 +4,12 @@ I'm a Computer Science student @ Ashesi University, passionate about software en
 
 ## About Me
 
-- 🌱 I'm currently learning backend development and system design
-- 🇯🇵 I'm studying Japanese (JLPT N5 → N4)
-- 🎯 I'm looking for Winter 2026 Software Engineering internships
-- 💬 Ask me about React, JavaScript, Python, Firebase, or web development
+- 🧑‍🏫 Always working on new React projects!
+- 🌱 Currently learning more about Python and AI.
+- 🇯🇵 Studying Japanese (JLPT N5 → N4)
+
+## Technical Skills
+
+**Languages**
+
+JavaScript • Python • Java • HTML • CSS
