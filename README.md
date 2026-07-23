@@ -25,3 +25,10 @@ I'm a Computer Science student @ Ashesi University, passionate about software en
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+## Contact Me
+
+If you'd like to collaborate, discuss an idea, or just connect, feel free to reach out!
+
+📧 mylesthestudent@gmail.com
+
+💼 LinkedIn: linkedin.com/in/myles-mureithi
