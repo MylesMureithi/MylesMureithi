@@ -1,6 +1,6 @@
 ## Hey, I'm Myles
 
-I'm a Computer Science student @ Ashesi University, passionate about software engineering and building technology that solves real problems. I enjoy experimenting with and creating modern web applications with React and Firebase, such as the **<a href="https://solex-eta.vercel.app/">[Solex.]</a> landing page and waitlist**, helping bring an adaptive scheduling platform for students to life.
+I'm a Computer Science student @ Ashesi University, passionate about software engineering and building technology that solves real problems. I enjoy experimenting with and creating modern web applications with React and Firebase, such as the **<a href="https://solex-eta.vercel.app/"><u>Solex</u></a> landing page and waitlist**, helping bring an adaptive scheduling platform for students to life.
 
 
 
