@@ -1,6 +1,10 @@
-## Hey, I'm Myles
+# Hi, I'm Myles 👋
 
 ### Computer Science Student @ Ashesi University 🇬🇭
+
+Building software that solves real problems.
+
+Currently developing **Solex**, an adaptive scheduling platform designed to help students manage workload and prevent burnout.
 
 <!--
 **dampercat/dampercat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
