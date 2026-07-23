@@ -29,6 +29,5 @@ I'm a Computer Science student @ Ashesi University, passionate about software en
 
 If you'd like to collaborate, discuss an idea, or just connect, feel free to reach out!
 
-📧 mylesthestudent@gmail.com
-
-💼 LinkedIn: linkedin.com/in/myles-mureithi
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mylesthestudent@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/myles-mureithi)
